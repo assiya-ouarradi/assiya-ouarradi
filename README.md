@@ -1,15 +1,9 @@
 <div align="center">
 
-```
-███████╗██╗   ██╗██╗     ██╗         ███████╗████████╗ █████╗  ██████╗██╗  ██╗
-██╔════╝██║   ██║██║     ██║         ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
-█████╗  ██║   ██║██║     ██║         ███████╗   ██║   ███████║██║     █████╔╝ 
-██╔══╝  ██║   ██║██║     ██║         ╚════██║   ██║   ██╔══██║██║     ██╔═██╗ 
-██║     ╚██████╔╝███████╗███████╗    ███████║   ██║   ██║  ██║╚██████╗██║  ██╗
-╚═╝      ╚═════╝ ╚══════╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+
 ```
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%2F+Spring+Boot+Enthusiast;Docker+%7C+DevOps+%7C+Clean+Code;Building+things+that+actually+work.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+%F0%9F%91%BE;Backend+%26+DevOps+Engineer;Cloud+%7C+System+Design+%7C+Infrastructure;Building+systems+that+scale.)
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00f5ff&labelColor=0d1117" alt="Profile Views"/>
 
@@ -23,13 +17,14 @@
 public class Developer {
 
     String name        = "YOUR_USERNAME";
-    String role        = "Full Stack Developer";
+    String role        = "Backend & DevOps Engineer";
     String location    = "🌍 Available for remote";
     
     String[] stack     = { "Java", "Spring Boot", "Docker", "SQL", "MongoDB" };
-    String[] currentlyLearning = { "Kubernetes", "System Design", "Cloud Architecture" };
+    String[] currentlyLearning = { "Kubernetes", "Cloud Architecture", "Distributed Systems" };
+    String focus       = "Cloud | System Design | Infrastructure";
     
-    String motto       = "Clean code is not written. It's rewritten.";
+    String motto       = "Don't just build features — build systems that last.";
     
     public String ask(String question) {
         if (question.equals("open to work?")) return "Always open to great projects 🚀";
