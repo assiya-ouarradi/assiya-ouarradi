@@ -34,7 +34,7 @@ I enjoy taking an idea from a notebook to something that actually runs: clean da
 | 🔎 | **LLM Research Agents** | Agents that search, rank passages and summarise with sources |
 | 🎙️ | **Speech & Documents** | Speech-to-text and document processing pipelines |
 | ⚡ | **AI APIs** | Model-serving endpoints with FastAPI |
-| 🐳 | **Deployable Systems** | Containerised ML services ready to ship |
+| 🐳 | **Deployable Systems** | Containerised ML/AI services ready to ship |
 
 ---
 
