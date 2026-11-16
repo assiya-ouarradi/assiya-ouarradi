@@ -151,7 +151,7 @@ Arabic (Native) · French (Fluent) · English (Professional) · Spanish (Beginne
 
 I'm open to PFE internship opportunities in **AI Engineering** (4–6 months). Feel free to reach out.
 
-- 💼 [LinkedIn: Assiya Ouarradi](https://linkedin.com/in/assiya-ouarradi)
+- 💼 [LinkedIn: Assiya Ouarradi](www.linkedin.com/in/assiya-ouarradi-992a541a0)
 - 📧 [ouarradiassiya24@gmail.com](mailto:ouarradiassiya24@gmail.com)
 
 <div align="center">
